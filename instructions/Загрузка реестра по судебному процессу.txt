@@ -1,0 +1,17 @@
+<h1>Загрузка реестра.</h1>
+<p style="margin-left:9px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Заполненный реестр загружается через Личный кабинет (профиль) пользователя в нижней части бокового меню:</span></span></p>
+<p style="margin-left:40px">{44984b74-9d4a-445d-adef-2eca714dc421}</p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Порядок действий:</strong></span></span></p>
+<p style="margin-left:9px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В личном кабинете, в виджете <strong>«Передаваемые данные»</strong> необходимо:</span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажать кнопку <strong>«Действия»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выбрать <strong>«Добавить файл».</strong></span></span>{c46f9d09-54b3-47e5-8cb0-ed7966f09872}</li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выбрать файл реестра.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В открывшемся окне «Параметры файла» указать тип файла <strong>«Судебная стадия» или «Досудебная стадия»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажать кнопку <strong>«Сохранить»</strong>.</span></span></li>
+</ol>
+<p>          {d26d9594-6d03-4dd4-8044-31289c7845e2}</p>
+<p> </p>
+<p style="margin-left:9px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После успешной загрузки должники из реестра отобразятся в соответствующем разделе.</span></span></p>
+<p style="margin-left:9px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#ee0000">Важно! </span></strong>Если необходимо загрузить <strong>иные документы</strong>, которые <strong>отсутствуют</strong> в реестре, необходимо <strong>добавить к таблице реестра столбцы</strong> с соответствующими названиями и внести в них точные названия документов.</span></span></p>
+<p style="margin-left:9px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После этого система присвоит загруженным долгам стадию <strong>«Уведомить должника»</strong>.</span></span></p>

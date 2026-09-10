@@ -1,0 +1,18 @@
+<p style="text-align:justify"><span style="font-size:11pt"><span style='font-family:"Times New Roman",serif'><strong>Заявление в порядке ст.64.1 запросы</strong> </span><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'>формируется автоматически при наличии электронной доверенности. В случае её отсутствия вручную.</span></span></span></p>
+<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>Проводится анализ запросов, направленных ранее в регистрирующие органы и кредитные учреждения, на основании чего, формируются автоматически в те организации, которые не направлялись запросы, либо направлялись более чем 120 дней назад.</span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>Для создания «Заявление в порядке ст.64.1 запросы», необходимо во вкладке «Кредитные договоры» выделить нужные объекты, далее «Действия», «Выбрать заявления»</span></span></p>
+<p style="text-align:justify">{ae36d9ff-d465-4ffb-a540-fccf93881bc8}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>после чего, нажать «Действия», «Подготовить заявления».</span></span></p>
+<p style="text-align:justify">{774cc6a4-310c-4539-abfb-18f69f1c2dfd}</p>

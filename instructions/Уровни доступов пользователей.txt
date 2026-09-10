@@ -1,0 +1,26 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для настройки уровня доступа сотруднику необходимо перейти в раздел <strong>«Реестры» → «Пользователи»</strong> и выбрать пользователя.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Далее, в строке <strong>«Уровень доступа»</strong> необходимо вручную <strong>проставить предоставляемый уровень доступа</strong>.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{97b7d6dd-5d58-4e98-9572-52cbf3d36c99} </span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#ee0000">Важно!</span></strong> Уровни доступов пользователей проставляются в зависимости от выполняемых им задач. С ростом уровня доступа расширяется видимость данных, права на действия и возможности по управлению системой.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Описание прав уровней доступа:</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>1 уровень:</strong> просмотр всего портфеля взыскателя, который за ним закреплен. При установке такого уровня доступа, в строке «Группа доступа» необходимо выбрать «Просмотр». Это ограничит пользователя от внесения изменений, удаления или редактирования данных, формирования и отправки заявлений, позволяя только просматривать информацию.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>2 уровень:</strong> просмотр портфеля по закрепленному взыскателю, в котором указан как ответственный. Формирование обращений по своему портфелю, а также по портфелю, в котором не указан ответственный. Просмотр обращений, которые сформировал сам. </span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>3 уровень:</strong> просмотр портфеля по закрепленному взыскателю, в котором указан как ответственный. Формирование обращений по своему портфелю, а также по портфелю, в котором не указан ответственный. Просмотр всех сформированных обращений.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>5 уровень:</strong> просмотр всего портфеля по закрепленному взыскателю. Формирование обращений по своему портфелю, а также по портфелю, в котором не указан ответственный. Просмотр всех сформированных обращений. Дополнительно получает возможность производить массовые изменения по КД.</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#ee0000">Важно!</span></strong> Начиная с 10 уровня и выше, пользователи являются администраторами системы и получают дополнительные возможности:</span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Добавление взыскателей;</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Добавление пользователей</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Настройка добавленных пользователей (предоставление уровня доступа, загрузка подписи и доверенности).</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#ee0000">Важно!</span></strong> Администратором пользователя может быть назначен только пользователь с более высоким уровнем доступа. Назначить администратора для пользователя может только другой пользователь с соответствующими правами.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>10 уровень:</strong> просмотр всего портфеля по закрепленному взыскателю. Формирование обращений по своему портфелю, а также по портфелю, в котором не указан ответственный. Просмотр всех сформированных обращений.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>11 уровень:</strong> просмотр и формирование обращений по всему портфелю закрепленного взыскателя, за исключением портфеля, в котором ответственными указаны сотрудники с 11 и 12 уровнями доступа. Просмотр всех сформированных обращений. </span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>12 уровень:</strong> просмотр и формирование обращение по всему портфелю закрепленного взыскателя, кроме потрфеля, закрепленного за пользователем с таким же уровнем. </span></span></p>
+<p> </p>
+<p><strong>Сводная таблица по правам доступа:</strong></p>
+<p>{a8cf301a-4b63-488b-9450-b6934b310c99}</p>
+<p> </p>
+<p> </p>

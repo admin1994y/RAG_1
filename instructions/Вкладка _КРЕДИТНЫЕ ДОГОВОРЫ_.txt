@@ -1,0 +1,4 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><strong>Во вкладке «Кредитные договоры»</strong> содержится общая информация об объектах (кредитный договор/лицевой счет), загруженных в АИС Техлегал. Непосредственно из этой вкладки отправляются изготовленные заявления и ходатайства, а также, принимаются ответы на них.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Во вкладку «Кредитные договоры» вынесены результативные части ответов на запросы и ходатайства, чтобы не просматривать каждый ответ.</span></span></p>
+<p><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Если во вкладке «Кредитные договоры» кликнуть на номер договора, то можно увидеть карточку должника.</span></span></p>
+<p>{5c86c2a4-aea6-4334-a1fa-f24b2bfd6f4e}</p>

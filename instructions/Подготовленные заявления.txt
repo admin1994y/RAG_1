@@ -1,0 +1,13 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><strong>Подготовленные заявления </strong>– это сформированные заявления, подготовленные к</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'> отправке в ЕПГУ, в том числе их печатные копии;</span></span></p>
+<p><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Эта вкладка сделана для того, чтобы произвести сортировку сформированных заявлений и ходатайств.</span></span></p>
+<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{c97f0ab4-1979-4645-afe5-359be9f9491b} </span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Кликнув на «Тип заявления», можно сделать выборку тех заявлений, которые Вы хотите отправить в ФССП или наоборот удалить те заявления, которые не хотите направлять.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>«Действия» - «Отправить заявления» - Выделенные заявления перейдут в папку «Отправленные заявления».</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Когда Вы запустите «Плагин ЕПГУ» они будут направлены в ФССП посредством ЕПГУ.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>«Действия» - «Удалить заявления» - заявления будут удалены.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{ba194085-d998-4492-834b-1690ccf5cb9d} </span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Посмотреть само заявление можно нажав на линзу.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{f8df4808-f6ec-4a62-bc09-5248890b174b} </span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>

@@ -1,0 +1,5 @@
+<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'> <span style="color:black">Ходатайство о совершении исполнительных действий </span>формируется в ручном режиме. </span></span></span></p>
+<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>Для создания «<span style="color:black">Ходатайство о совершении исполнительных действий</span>», необходимо во вкладке «Кредитные договоры» выделить необходимые объекты, далее «Действия», «Выбрать заявления» </span></span></p>
+<p style="text-align:justify">{fd46cb09-108d-4682-b12f-1e5064da97f7}</p>
+<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>после чего, нажать «Действия», «Подготовить заявления».</span></span></p>
+<p style="text-align:justify">{d7a4ed36-b111-4942-ad9e-05079fa6a5d2}</p>

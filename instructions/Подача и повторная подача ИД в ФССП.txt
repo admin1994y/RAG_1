@@ -1,0 +1,18 @@
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Для подачи/повторной подачи ИД в ФССП пользователю необходимо сформировать соответствующее заявление.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Порядок действий:</b></span></span></span></p>
+<ol>
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Перейдите в раздел <b>«Исполнительные документы»</b>, выделите строки с нужными кредитными договорами (КД). Нажмите <b>«Действия»</b> → <b>«Выбор заявления»</b>.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{6eb2602a-5bfe-40f5-bc2d-17c55a2079a4}</span></span></span></p>
+<ol start="2">
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В открывшемся списке выберите <b>«Заявление о возбуждении исполнительного производства»</b>.</span></span></span></span></li>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нажмите <b>«Действия»</b> → <b>«Подготовить заявления»</b>.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{b5d0ff28-05c1-4c57-8219-d32e5bc5d60f}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Система сформирует заявления и разместит их в разделе: </span></span><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>«</b></span></span></span><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Обращения/Заявления/Подготовленные заявления</b></span></span><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>».</b></span></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Затем пользователю необходимо перейти в этот раздел, выбрать подготовленные заявления и осуществить их отправку одним из способов:</span></span></span></p>
+<ul>
+<li style="margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Отправка почтой;</span></span></span></li>
+<li style="margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Отправка почтой массово;</span></span></span></li>
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нарочная подача заявлений.</span></span></span></li>
+</ul>

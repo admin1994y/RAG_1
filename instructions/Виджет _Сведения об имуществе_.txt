@@ -1,0 +1,5 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Виджет <strong>«Сведения об имуществе» </strong>содержит<strong> </strong>данные об объектах имущества должника, которые получены из материалов исполнительного производства.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{f483fe5d-4487-4e21-a887-265e83b371bd} </span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>То есть здесь содержатся те же сведения что и во вкладке «Имущество» по конкретному должнику, а не по портфелю.</span></span></p>

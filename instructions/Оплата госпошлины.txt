@@ -1,0 +1,45 @@
+<h1>Оплата госпошлины.</h1>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для отправки заявлений в суд необходимо оплатить государственную пошлину.</span></span></p>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Порядок действий:</strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выбрать строки с необходимыми кредитными обязательствами – у которых в столбце «Стадия» отображается статус «Оплатить госпошлину» и нажать кнопку <strong>«Действия».</strong></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выбрать <strong>«Запросить госпошлину».</strong></span></span></li>
+</ol>
+<p>{4826d1fc-f2e5-414c-a399-b603b965c852}</p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После этих действий система формирует реквизиты, которые отобразятся в отдельной вкладке «Госпошлина». Здесь будет отображена информация для формирования платежного поручения. </span></span></p>
+<p>{9b27f677-4ba3-424e-a891-32d26fa389e6}</p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Система предлагает два варианта оплаты госпошлины:</span></span></p>
+<ul>
+<li style="list-style-type:none">
+<ul>
+<li style="list-style-type:none">
+<ul style="list-style-type:square">
+<li>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Вручную:</strong> Клиент оплачивает по реквизитам в своей бухгалтерской системе и самостоятельно загружает подтверждающий документ c типом «<strong>Платежное поручение подтверждающее оплату госпошлины»</strong> в карточку обязательства. Подробнее о загрузке дополнительных документов можно прочитать в документе <u>«Загрузка документов для судебного процесса»</u>.</span></span></p>
+</li>
+<li><strong><span style="font-size:12.0pt"><span style='font-family:"Calibri",sans-serif'>Через СберБизнес. </span></span></strong><span style="font-size:12.0pt"><span style='font-family:"Calibri",sans-serif'>Реестр передается в ЛК СберБизнес для оплаты ответственным лицом. </span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Порядок оплаты через СберБизнес:</strong></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажать кнопку «Действия».</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выбрать далее <strong>«Отправить по </strong><strong>Sber </strong><strong>API».</strong></span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{2ec4b6d1-184e-436b-87b9-166190d31dd4}</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После оплаты система автоматически получает и подшивает в дело отметку банка. Для оплаты через СберБизнес Онлайн необходимо предварительно настроить API Sber. Подробно об этом можно прочитать в разделе <u>«Настройка API Sber».</u></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Важно!</strong> Выбор опции <strong>«Отправить по Sber API»</strong> осуществляет <strong>только передачу</strong> сформированных платежных поручений в систему «Сбербанк Бизнес Онлайн».</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Это действие не является автоматической оплатой!</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для завершения процесса <strong>ответственному сотруднику</strong> (например, главному бухгалтеру или руководителю) необходимо:</span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Авторизоваться в личном кабинете СББОЛ.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Найти переданные платежные поручения.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Проверить и подтвердить оплату вручную.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Только после выполнения этих действий в системе Сбербанка госпошлина будет считаться оплаченной, а платёжный документ с отметкой об исполнении автоматически вернётся в карточку обязательства.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После подтверждения оплаты госпошлины система переводит обязательство на следующую стадию - <u><strong>«Н</strong></u></span></span><u><strong>аправить должнику Заявление на выдачу судебного приказа<span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">»</span></span></strong></u><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><u>.</u></span></span></p>
+<p> </p>
+<p> </p>

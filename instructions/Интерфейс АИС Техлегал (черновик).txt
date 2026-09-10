@@ -1,0 +1,47 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Интерфейс АИС «Техлегал»</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Окно программы разделено на две основные области, обеспечивающие навигацию и отображение информации.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>1. Структура интерфейса.</strong></span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Меню (выделено красным).</strong><br/>
+	Содержит список всех основных разделов системы («Кредитные договоры», «Имущество», «Обращения» и т.д.). При нажатии на любой пункт меню его содержимое отображается в рабочей области.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Рабочая область (выделено синим).</strong><br/>
+	Динамическая зона, где открывается и отображается содержимое выбранного в меню раздела. Информация здесь меняется в зависимости от выбранного пункта в боковом меню.</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{4da43369-8439-4027-b393-bd361c730771}</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>2. Работа с вкладками (Открытые страницы)</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Под боковым меню находится раздел <strong>«Открытые страницы»</strong>, который служит панелью управления открытыми разделами. </span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Открытие вкладки:</strong> при выборе любого пункта в боковом меню он автоматически открывается в рабочей области и добавляется в виде отдельной строки в список <strong>«Открытые страницы»</strong>.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Переключение между вкладками:</strong> для быстрого перехода к уже открытому ранее разделу достаточно нажать на его название в списке <strong>«Открытые страницы»</strong>. </span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{20285040-b5a6-491f-8b3f-5132cc9e1b6a}</span></span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Закрытие вкладки:</strong></span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Чтобы закрыть вкладку, нажмите на значок в виде <strong>крестика</strong> справа от её названия в списке <strong>«Открытые страницы» (1)</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Чтобы закрыть <strong>все открытые вкладки</strong> сразу, нажмите на значок <strong>крестика</strong>, расположенный <strong>рядом с заголовком</strong> самого раздела <strong>«Открытые страницы» (2)</strong>.</span></span></li>
+</ul>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{f0f8c5e8-5222-4466-87e7-6af50c46b8af}</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Личный кабинет пользователя. </strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В нижней части <strong>бокового меню</strong> расположена строка с <strong>ФИО пользователя</strong>. Это постоянный элемент интерфейса, обеспечивающий быстрый доступ к профилю. Чтобы перейти в личный кабинет – нажмите на эту строку.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{e5f6b7c5-5513-44b7-ab88-d67b90d0e885}</span></span></p>

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Секреты
+.env
+*.env
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# Артефакты RAG / бинарники
+*.pkl
+*.bin
+*.faiss
+chunks.pkl
+faiss_index.bin
+
+# OS
+.DS_Store
+Thumbs.db

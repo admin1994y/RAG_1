@@ -1,0 +1,29 @@
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В системе доступно создание <b>произвольного заявления</b> — документа, текст которого вы формируете самостоятельно. </span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Порядок действий:</b></span></span></span></p>
+<ol>
+<li style="margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Выделите кредитный договор (КД), по которому необходимо отправить заявление.</span></span></span></li>
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нажмите <b>«Действия»</b> → <b>«Выбор заявления»</b>.</span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{f15bcbd9-4b93-43d6-853f-8be5e9405ba6}</span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<ol start="3">
+<li style="margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В открывшемся списке выберите <b>«Произвольное заявление»</b>.</span></span></span></li>
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нажмите <b>«Действия»</b> → <b>«Подготовить заявление»</b>.</span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{502c859c-5eda-43f7-876e-cf42e199736d}</span></span></span></p>
+<ol start="5">
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Откройте раздел: <b>«Обращения»</b> → <b>«Заявления»</b> → <b>«Подготовленные заявления»</b>. Нажмите на текст <b>«Произвольное заявление»</b> в столбце <b>«Тип заявления»</b>. </span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{198f5c0a-6803-41d1-a611-d3affd4c2f3c}</span></span></span></p>
+<ol start="6">
+<li style="margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В открывшемся окне внесите текст заявления в поле <b>«Текст заявления»</b>. </span></span></span></li>
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нажмите кнопку <b>«Сохранить»</b>.</span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{f23a7f0f-a6a3-4ead-81dd-18add8ce74cb}</span></span></span></p>
+<ol start="8">
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Для отправки выделите подготовленное заявление, нажмите <b>«Действия»</b> → <b>«Отправить заявления»</b>.</span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{4e842a07-0acd-47c5-9dee-44280090431a}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Важно! Произвольное заявление можно сформировать <b>только по незавершённому исполнительному производству</b>. </span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"> </p>

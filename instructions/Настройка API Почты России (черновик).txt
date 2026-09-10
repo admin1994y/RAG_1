@@ -1,0 +1,35 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Инструкция: Настройка API Почты России в АИС «Техлегал».</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для регистрации и отправки обращений через <strong>API Почты России</strong> необходимо выполнить последовательные действия, описанные в данном руководстве.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>1. Подключение и регистрация API Почты России в АИС «Техлегал»</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Заключите договор с <strong>АО «Почта России»</strong>. Для этого обратитесь в чат технической поддержки Почты России на официальном портале:<br/>
+<a href="https://otpravka.pochta.ru/" style="color:#0563c1; text-decoration:underline" target="_blank">https://otpravka.pochta.ru/</a></span></span></p>
+<ol start="2">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Заполнение настроек API в АИС «Техлегал»</strong></span></span></li>
+</ol>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В АИС «Техлегал» перейдите:<br/>
+<strong>«Меню» → «Реестры» → «Взыскатели»</strong> → выберите нужную организацию.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{5e3bc10b-a420-4329-b5d4-cb0464904a2d}</span></span></p>
+<ol start="2">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В карточке взыскателя найдите виджет <strong>«API Почты России»</strong> и заполните все поля:</span></span></li>
+</ol>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Ключ – сгенерированный на портале otpravka.pochta.ru.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Токен - токен авторизации API. Эти данные можно взять из раздела «API-настройки» в личном кабинете Почты России.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Индекс места приема - индекс почтового отделения, куда будут сдаваться отправления.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Онлайн оплата – выберите из выпадающего списка:  значение «Да» — оплата через личный кабинет (QR-код на конверте), «Нет» — оплата иными способами (марками и т.д.).</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Важно!</strong> При выборе <strong>«Да»</strong> для онлайн-оплаты необходимо предварительно <strong>пополнить лицевой счёт организации</strong> в личном кабинете Почты России.</span></span></p>
+<ol start="3">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажмите кнопку <strong>«Сохранить»</strong> для применения настроек.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{f964e3c8-de78-443f-bc73-26a96e131317}</span></span></p>
+<p> </p>
+<ol start="3">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Увеличение суточного лимита запросов</strong></span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Обратитесь в службу технической поддержки Почты России через личный кабинет с запросом на увеличение суточного лимита запросов до <strong>500 000</strong>.</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Об отправке обращений через API Почты России можно прочитать в документе<strong> «Способы отправки обращений».</strong></span></span></p>
+<p> </p>

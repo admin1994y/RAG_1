@@ -1,0 +1,75 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>TL_Подпись: назначение, настройка и использование</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>1. Что такое TL_Подпись.</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>TL_Подпись</strong> — это приложение, предназначенное для работы с усиленной квалифицированной электронной подписью (УКЭП). Программа используется для подтверждения прав доступа сотрудников организации при отправке заявлений через API Единого портала государственных услуг (ЕПГУ).</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">TL_Подпись обеспечивает безопасную авторизацию системы при взаимодействии с государственными сервисами.</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>2. Для чего нужна TL_Подпись</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Приложение выполняет три ключевые функции:</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Подтверждение доступа к API ЕПГУ. </strong>Без работающей TL_Подписи отправка заявлений через API невозможна.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Подписание UUID. </strong>Обеспечивает безопасную передачу идентификационных данных между системами.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Поддержание сеанса отправки. </strong>При корректной работе приложения статус API отображается как «Отправляет».</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>3. Установка и настройка</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Порядок установки:</strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Скачайте установочный файл программы в разделе <strong>«Плагин»</strong>:</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{806baf80-9fbc-472c-9125-73bd71f8c1dd}</span></span></p>
+<p> </p>
+<ol start="2">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Запустите файл tl_sig.exe и установите программу в корень диска С. </span></span> Также при необходимости внесите добавить папку в исключения в защитнике Windows и антивирусного ПО.</li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Настройка приложения:</strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В интерфейсе программы нажмите кнопку <strong>«Добавить пользователя»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Укажите путь к папке, в которой установлены средства криптографической защиты КриптоПро.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Внесите ИНН организации.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Укажите домен – лучше скопировать значение из адресной строки.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Введите <strong>отпечаток сертификата</strong> УКЭП организации.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажмите кнопку <strong>«Подписать»</strong>.</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{c996770b-22e7-4694-bc32-37e9b41bab7b}</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Как получить отпечаток сертификата:</strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Откройте: <strong>«Пуск» → «КриптоПро» → «Сертификаты пользователя»</strong>.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{548a5b12-0552-4e2a-9de6-90b63d95b396}</span></span></p>
+<ol start="2">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Перейдите в папку <strong>«Личное»</strong> → <strong>«Сертификаты»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Найдите и дважды кликните на сертификат вашей организации.</span></span></li>
+</ol>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{26c978fc-ae36-45f4-b903-8efa8c31f58f}</span></span></p>
+<p> </p>
+<ol start="4">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В открывшемся окне перейдите на вкладку <strong>«Состав»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Пролистайте вниз до строки <strong>«Отпечаток»</strong>. Нажмите на неё.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Скопируйте комбинацию символов и вставьте её в соответствующее поле в TL_Подпись.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{adb5dec2-58a2-4a34-9d8b-7ba17bdec7d2}</span></span></p>
+<p style="margin-left:24px"> </p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>4. Как часто нужно запускать TL_Подпись</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Периодичность запуска:</strong> один раз в 24 часа.</span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После запуска программа может быть закрыта — доступ сохранится на сутки.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Следующий запуск потребуется через 24 часа.</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Автоматический запуск:</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">При активации опции <strong>«Автозапуск»</strong> программа будет автоматически подтверждать права доступа при каждом включении компьютера, обеспечивая непрерывную работу без ручного вмешательства.</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>5. Кто должен запускать TL_Подпись</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Запускать приложение должен сотрудник, у которого одновременно соблюдаются два условия:</span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Наличие доступа к ЭЦП </strong>организации.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Установленное программное обеспечение «КриптоПро»</strong> на компьютере.</span></span></li>
+</ol>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>6. Особенности работы </strong><strong>TL-Подписи: </strong></span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Установка</strong> допускается на нескольких компьютерах.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Одномоментный запуск</strong> должен осуществляться <strong>только на одном из них</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Устанавливать программу каждому пользователю</strong> нет необходимости — достаточно одного рабочего места с доступом к ЭЦП.</span></span></li>
+</ul>
+<p> </p>

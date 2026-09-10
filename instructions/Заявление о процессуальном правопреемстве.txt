@@ -1,0 +1,15 @@
+<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black">Заявление о процессуальном правопреемстве формируется в ручном режиме. </span>Для его создания <span style="color:black">следует открыть вкладку</span> «Кредитные договоры», далее «Выбор заявления», «Заявление о процессуальном правопреемстве», затем «Действия», «Подготовить заявления».</span></span></span></p>
+<p style="text-align:justify">{c74f3fd6-5fa1-48f6-887c-e2d83f3030f9}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">{2adc9679-daba-4bcc-bd02-8adfbf6a8b46}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><u><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black">Если Исполнительное производство возбуждено на основании исполнительного документа, выданного судом:</span></span></span></span></u></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black">- определение должно быть загружено в формате pdf. Обязательно заполните «Дата определения». Для её внесения следует открыть виджет «Сведения о должнике» и выбрать «Номер ИД»;</span></span></span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black">- определение можно прицепить массово, заполнив реестр "Номер договора", "Наименование файла с определением", либо добавив его в виджете «исполнительный документ», где нужно добавить документ определения и заполнить дату определения.</span></span></span></span><br/>
+ </p>
+<p style="text-align:justify"><u><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black">Если Исполнительное производство возбуждено на основании нотариальной надписи:</span></span></span></span></u></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black">- договор цессии должен быть загружен в формате pdf. Обязательно заполните «Номер цессии», «Дата договора цессии», «Цедент». Для внесения данной информации вам следует открыть виджет «Цессии» и через кнопку добавить создать новую карточку цессии;</span></span></span></span></p>
+<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black">- скан выписки к договору цессии должен быть загружен в формате pdf. Для его внесения вам необходимо открыть виджет «Кредитные договоры» и в карточке должника загрузить соответствующий документ в поле «Скан выписки».</span></span></span></span></p>

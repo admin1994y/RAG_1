@@ -1,0 +1,6 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Для создания «Заявление об объединении ИП в сводное», необходимо открыть вкладку «Кредитные договоры», далее, в столбце «Номер ИП» выбрать «Содержит» «Не пусто», выделить нужные объекты, затем «Действия» - «Выбрать заявления» и далее, «Действия», «Подготовить заявления».</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{0e0b56fc-c7e6-4eae-bdd6-937419794ad0} </span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">{3faad1d7-9e9e-4e19-9e48-1aea9f1ca9fd}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>

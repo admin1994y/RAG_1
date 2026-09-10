@@ -1,0 +1,12 @@
+<p><span style="font-family:Times New Roman,Times,serif"><strong>​​​​​​Вкладка </strong><span style="font-size:12pt"><strong>«Статус <strong><span dir="ltr" lang="EN-US">API</span> ЕПГУ»</strong> </strong>отражает причины ошибок отправки обращений посредством </span><span dir="ltr" lang="EN-US" style="font-size:12.0pt">API</span><span style="font-size:12.0pt">, а также возможность их сброса.</span></span></p>
+<p><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>{ba828963-78c2-45bc-930c-5505605524f7} </span></span><br/>
+ </p>
+<p><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Пользователи могут самостоятельно выполнить сброс ошибки UUID (доступа к ЕПГУ). Для этого в меню программы необходимо выбрать ветку «Заявления», «Статус API»</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{415d649f-9e1c-4eed-90fe-66859c5aac7e} </span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>после чего, нажав на UUID пользователя, у которого появилась ошибка, «провалиться» в параметры доверенности и нажать на кнопку «Сбросить ошибку».</span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{fb50274c-8435-4255-aa7c-03aadf5068c8} </span></span></p>
+<p style="text-align:justify"> </p>
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:12pt">и перезапустить <em>TL</em>_Подпись.</span></span></p>
+<p> </p>

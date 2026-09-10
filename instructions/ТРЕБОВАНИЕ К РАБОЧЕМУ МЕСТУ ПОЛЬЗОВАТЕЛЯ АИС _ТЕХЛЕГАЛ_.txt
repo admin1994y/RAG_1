@@ -1,0 +1,33 @@
+<h1><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><a name="_Toc155905995"> <strong><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif">Требования к оборудованию и программному обеспечению</span></span></strong></a></span></span></h1>
+
+<p style="text-align:justify"><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif">Для работы программы АИС &laquo;Техлегал&raquo;, используются персональные компьютеры с операционной системой Windows, не ниже 10 версии. Браузер может использоваться любой.</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif">Рекомендуемые технические характеристики компьютеров пользователей:</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif">- оперативная память: 4gb ram;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif">- процессор: 2 ядра 4 потока;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif">- свободное дисковое пространство: 500 мб свободного места.</span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<h1 style="text-align:justify"><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif"><a name="_Toc155905996"> <strong>Настройки межсетевого экрана.</strong></a></span></span></h1>
+
+<p style="text-align:justify"><span style="font-size:14px"><span style="font-family:Verdana,Geneva,sans-serif">Для корректной работы программы АИС &laquo;Техлегал&raquo;, пользователь должен внести настройки в Firewall, разрешающие доступ к следующим адресам:</span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&#39;gu-st.ru&#39;, </span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&#39;*.gosuslugi.ru&#39;&nbsp; или (&#39;lk.gosuslugi.ru&#39;, &#39;esia.gosuslugi.ru&#39;, &#39;voxel.gosuslugi.ru&#39;, &#39;www.gosuslugi.ru&#39;, &#39;roles.gosuslugi.ru&#39;, &#39;af.gosuslugi.ru&#39;, &#39;ssp.gosuslugi.ru&#39; ),</span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&#39;main.techlegal.ru&#39;, &#39;*.techlegal.ru&#39; или (&#39; поддомен.techlegal.ru&#39; ), &#39;s3.timeweb.cloud&#39; </span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">если есть проверка ssl сертификатов, необходимо ее отключить</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Необходимо открыть порты:</span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">127.0.0.1 (порты 55000-58000, 50000 - 52000 , 9200-8400, 443)</span></span></p>

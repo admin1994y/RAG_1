@@ -1,0 +1,13 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:10.0pt">Администраторы системы АИС Техлегал могут самостоятельно создавать взыскателей, следуя указанным шагам. Для удобства, вот более подробное описание процесса:</span></span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:10.0pt">В интерфейсе системы найдите раздел «Реестры», выберете «Взыскатели»</span></span></span></p>
+<p style="text-align:justify">{edf1f8f5-5b2f-4152-b1f9-b49b972e35c5}</p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:10.0pt">В открывшемся окне нажмите кнопку «Действия», далее, «Добавить» и заполните предложенную форму.</span></span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:10.0pt">Обращаем Ваше внимание, что все поля, указанные в форме, <strong>обязательны</strong> для заполнения и используются системой АИС Техлегал для формирования заявлений и документов.</span></span></span></p>
+<p style="text-align:justify">{bead7fe1-d05e-43ca-aaab-08fc45931b62}</p>
+<p>{1219fa25-f633-454e-91e2-2a20819f3f1f}</p>
+<p>{1a3cdb5e-36ca-4a0e-99ba-973eb8f4822a}</p>
+<p> </p>
+<p>{152a6756-df96-4daa-9188-fbdba55d7c87}</p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:10.0pt">Далее, необходимо назначить и добавить пользователей для работы с созданным  взыскателем.</span></span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>

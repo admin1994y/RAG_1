@@ -1,0 +1,2 @@
+<p><span style="font-size:12.0pt"><span style="background-color:white"><span style='font-family:"Times New Roman",serif'><span style="color:black">Для сброса всех установленных ранее фильтров в программе, достаточно нажать на кнопку «Сброс фильтров».</span></span></span></span></p>
+<p>{1d3e369d-dccc-4779-aa0f-7218d1e9d546}</p>

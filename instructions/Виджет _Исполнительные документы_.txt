@@ -1,0 +1,6 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Виджет<strong> «Исполнительные документы»</strong>, здесь находится информация об исполнительных документах, вынесенных в отношении должника. </span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>«Номер ИД» кликабелен. При нажатии на него, вы попадете в характеристики исполнительного документа.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{639ac917-168f-419b-b490-ecbc978b8468} </span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{642a7588-06a8-4fad-a18a-877bf8c284e2} </span></span></p>
+<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Если при отправке исполнительного документа в ФССП указать идентификатор отправки (ШПИ), то сервис предоставит информацию о получении исполнительного документа адресатом.</span></span></p>

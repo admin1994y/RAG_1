@@ -1,0 +1,4 @@
+<p><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>«<span style="color:black">Заявление о розыске должника</span>» формируется в ручном режиме. Для его создания, необходимо во вкладке «Кредитные договоры» выделить нужные объекты, далее «Действия», «Выбрать заявления» </span></span></p>
+<p>{a0937915-9326-4df6-a2d0-03ad79d98a3d}</p>
+<p><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>после чего, нажать «Действия», «Подготовить заявления».</span></span></p>
+<p>{19068605-749e-44a5-ad2c-8762dca7708a}</p>

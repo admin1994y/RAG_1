@@ -1,0 +1,25 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После формирования UUID для сотрудников на Технологическом портале госуслуг, ответственный сотрудник (администратор) должен внести эти идентификаторы в профили пользователей в системе АИС «Техлегал».</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Порядок действий:</strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Перейдите к списку взыскателей:</strong> В главном меню откройте <strong>«Реестры»</strong>. Выберите подраздел <strong>«Взыскатели»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Выберите организацию и пользователя:</strong> В списке взыскателей нажмите на строку с названием нужной <strong>организации</strong>.</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{639253df-33fe-4c0b-b5d3-1c57041ed539}</span></span></p>
+<ol start="3">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В правой части экрана в виджете <strong>«Пользователи»</strong> найдите и нажмите на строку с <strong>ФИО сотрудника</strong>, которому необходимо присвоить UUID.</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{298d9954-c1f8-4181-8be6-5b62e7664094}</span></span></p>
+<ol start="4">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В открывшейся карточке пользователя перейдите к виджету <strong>«Доверенность»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В строке <strong>«UUID»</strong> введите уникальный идентификационный ключ, полученный для этого сотрудника. Нажмите кнопку <strong>«Сохранить»</strong>.</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{c0a2aa86-867f-4338-954c-36be77e7051a}</span></span></p>
+<ol start="6">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Заполните личные данные в профиле пользователя (если не заполнены): Дата рождения, СНИЛС</strong> (только цифры, без пробелов и дефисов)</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{9599ce2d-2d4a-46f6-a0e3-12fd07a11253}</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Критически важные замечания</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#c0392b">Важно!</span> </strong>Идентификационный ключ выдается сроком на <strong>6 месяцев</strong>. По истечении этого срока его действие прекращается, и необходимо <strong>повторить всю процедуру</strong> — сформировать и внести новый UUID.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#c0392b"><strong>Важно! </strong></span>Если сотрудник представляет интересы <strong>нескольких организаций</strong> (взыскателей), то для каждой организации необходимо <strong>сформировать и внести отдельный UUID</strong> в его профиль в карточке соответствующего взыскателя.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После выполнения этих действий сотрудник получит возможность отправлять обращения в ФССП через API ЕПГУ от имени указанной организации. Система будет использовать внесенный UUID для авторизации при электронном документообороте.</span></span></p>

@@ -1,0 +1,31 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Как настроить TOTP-авторизацию в ТехЛегал.</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для вашего удобства в системе доступен способ авторизации <strong>TOTP</strong> (временный одноразовый пароль). </span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Порядок действий:</strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Зайдите в <strong>Профиль пользователя</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В строке <strong>«Тип авторизации»</strong> из выпадающего списка выберите <strong>TOTP</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажмите кнопку <strong>«Сохранить»</strong>, чтобы применить изменения.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{981ebea4-8cb1-407c-8f97-6798755b0922}</span></span></p>
+<p> </p>
+<ol start="4">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажмите на буквенно-цифровую комбинацию в строке <strong>TOTP</strong>. </span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{44a760fa-58a3-4c3c-a039-c1b90eef31fa}</span></span></p>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После этого во всплывающем окне (pop-up) отобразится <strong>QR-код</strong>.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{e9f5b9c5-d793-4100-9970-f4d8120eb0a9}</span></span></p>
+<p> </p>
+<p> </p>
+<ol start="5">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Откройте приложение <strong>«Яндекс Ключ»</strong> на вашем устройстве.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажмите на значок <strong>«Плюс»</strong> (+) в блоке <strong>«Настроить 2FA TOTP»</strong> (Второй фактор защиты).</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"> {1c48f563-c89a-4bff-97c5-814fb07d32cf}</span></span></p>
+<p style="margin-left:24px"> </p>
+<ol start="7">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажмите кнопку <strong>«Сканировать»</strong> и наведите камеру на QR-код, который открыт в ТехЛегале (ТЛ).</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{cd9fbdf7-0277-4d21-aa7b-78cf880731fe}</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Результат.</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Теперь при входе в <strong>ТехЛегал</strong> в приложении <strong>«Яндекс Ключ»</strong> будет автоматически формироваться код для подтверждения входа в систему.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{582640e6-76fa-4876-b041-e2098505627b}</span></span></p>

@@ -1,0 +1,20 @@
+<h1>Отправка заявления в суд.</h1>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Подача заявления в суд (Стадия: "Направить заявление в суд")</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После оплаты госпошлины для кредитного обязательства устанавливается статус «Направить Заявление на выдачу судебного приказа». На этом этапе происходит отправка заявления о вынесении судебного приказа в суд. </span></span></p>
+<p><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">На текущий момент, при условии оплаты гос пошлины и отправки заявления должнику, заявление в суд формируется системой автоматически после того, как заявление должнику приобретает статус «Принято почтовым отделением». Сформированные заявления находятся в разделе <strong>«</strong></span></span></span><strong>Обращения/Заявления/Подготовленные заявления</strong><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><strong>»</strong>. Пользователю необходимо зайти в этот раздел, выбрать способ отправки и отправить их. </span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Способы отправки заявления в суд:</strong></span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для судебных участков, поддерживающих ЭДО отправка производится<strong> в ГАС "Правосудие"</strong>. Заявление подписывается ЭЦП и отправляется через интегрированный плагин системы.</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#c0392b;"><strong>Важно! </strong></span>Для уменьшения количества отказов в принятии документов, необходимо использовать ЭЦП, выданную на имя сотрудника организации.</span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Для судебных участков, не поддерживающих ЭДО:</strong></span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">                 - Если<strong> </strong>настроено<strong> </strong><strong>API Почты России – массовая/единичная отправка через Почту России</strong> (в зависимости от количества отправлений для одного адресата);</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">                 - Если не настроено API Почты России – нарочная подача.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Подробно о способах отправки сформированных заявлений можно прочитать в инструкции <strong>«Способы отправки заявлений».</strong></span></span></p>
+<p><span style="font-size:12pt"><span style="line-height:115%"><span style='font-family:"Calibri",sans-serif'>Также для отправленных заявлений система сформирует печатные формы, которые будут размещены в соответствующем разделе меню:</span></span></span></p>
+<p>{02bb9378-b34f-4d35-aa70-a1ba335ea2e4}</p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Подробнее о работе и настройках печатных форм можно прочитать в инструкции <strong>«Работа с печатными формами»</strong>.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#ee0000">Важно! </span></strong>После отправки заявления и получения информации о его регистрации (номера и даты регистрации) обязательство переходит в раздел <strong>«Судебная стадия»</strong>.</span></span></p>
+<p> </p>

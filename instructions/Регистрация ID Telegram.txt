@@ -1,0 +1,12 @@
+<p><span style="font-size:16px"><strong>Регистрация ID <span style="font-family:Calibri,sans-serif">Telegram </span></strong></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для начала работы необходимо обратиться к боту <strong>@TechlegalBot</strong> в мессенджере Telegram.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Порядок действий для активации:</strong></span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Нажмите кнопку <strong>«СТАРТ»</strong> в диалоге с ботом.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Напишите сообщение с текстом: <strong>«ПРИВЕТ».</strong></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В ответном сообщении бот пришлет <strong>ID Telegram </strong>пользователя.</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Важно! </strong>Полученный <strong>ID Telegram</strong> — это уникальный идентификатор пользователя в мессенджере Telegram. ID необходимо сохранить и указать в личном кабинете пользователя в соответствующей строке для привязки учетной записи пользователя в системе. После получения ID Telegram бот используется для получения одноразовых паролей при входе в АИС «Техлегал».</span></span><br/>
+ </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{099d7c7b-1ba6-46b5-ba9f-2372416e9224}</span></span></p>
+<p style="text-align:justify"> </p>

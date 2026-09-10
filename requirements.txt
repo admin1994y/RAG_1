@@ -1,0 +1,11 @@
+requests==2.31.0
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+huggingface-hub==0.24.5
+faiss-cpu
+transformers==4.36.0
+torch>=2.0.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+langchain
+langchain-community

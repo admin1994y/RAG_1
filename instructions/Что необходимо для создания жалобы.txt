@@ -1,0 +1,6 @@
+<p>Для создания жалобы <span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>необходимо во вкладке «Подготовка жалоб» выделить все объекты, по которым нужно направить жалобу, далее «Действия», «Выбрать заявления», выбираете соответствующую ситуации жалобу, затем «Действия», «Подготовить заявления».</span></span></p>
+<p>{799888df-7150-443d-b9d7-bb01d2112a0e}</p>
+<p> </p>
+<p>{b406b909-ab5c-4064-82ef-2e6e07aadbfb}</p>
+<p> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><strong>Для создания некоторых типов жалоб, необходимо установить определенные условия.</strong></span></span></p>

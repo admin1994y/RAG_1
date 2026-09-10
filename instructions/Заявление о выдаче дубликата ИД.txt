@@ -1,0 +1,42 @@
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В системе реализована возможность подачи заявления в суд для получения дубликата исполнительного документа (ИД) и замены бумажного ИД на электронный исполнительный документ (ЭИД). Подача заявлений доступна из раздела <b>«Судебная стадия»</b>.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Порядок действий</b></span></span></span></p>
+<ol>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Перейдите в раздел:<br/>
+<b>«Кредитные договоры/Судебная стадия»</b>.</span></span></span></span></li>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Выделите строки с должниками, нажмите <b>«Действия» → «Выбор заявления»</b>.</span></span></span></span></li>
+</ol>
+<p style="margin-left:24px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{b8f75f5e-7a2c-4c01-8ffc-ad7cd4da2964}</span></span></span></p>
+<ol start="3">
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Выберите необходимое заявление из списка:</span></span></span></span>
+<ul>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">«Заявление о выдаче дубликата ИД (АоНВ)»</span></span></span></li>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">«Заявление о выдаче дубликата ИД (отзыв без исполнения)»</span></span></span></li>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">«Заявление о выдаче дубликата ИД (отказ в возбуждении ИП)»</span></span></span></li>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">«Заявление о выдаче дубликата ИД, перевод в ЭИД»</span></span></span></li>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">«Заявление о выдаче дубликата ИД (отзыв без исполнения), перевод в ЭИД»</span></span></span></li>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">«Заявление о выдаче дубликата ИД (отказ в возбуждении ИП), перевод в ЭИД»</span></span></span></li>
+</ul>
+</li>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нажмите <b>«Действия» → «Подготовить заявления»</b>.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{cd8e2636-b7bd-4c35-8441-1799451e5b3b}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Сформированные заявления будут находиться в разделе:<br/>
+<b>«Обращения/Заявления/Подготовленные заявления»</b>. Для отправки подготовленных заявлений необходимо перейти в этот раздел, выделить объекты и выбрать способ отправки через кнопку <b>«Действия»</b>.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Важно! </b>Обязательным условием для формирования заявлений является <b>утрата ИД</b>, которая должна быть подтверждена <b>актом об утрате ИД</b>. Без этого документа формирование заявления для получения дубликата ИД невозможно.</span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<div style="page-break-after:always"><span style="display: none;"> </span></div>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Перевод долга в судебную стадию</b></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Если должник, по которому необходимо направить заявление, находится в разделе <b>«Исполнительное производство»</b>:</span></span></span></p>
+<ol>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Выделите строку с нужным долгом и нажмите <b>«Действия» → «Изменить стадию»</b>.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{e5995867-8d5c-4c7e-8d4f-c91a3d5d4926}</span></span></span></p>
+<ol start="2">
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В открывшемся окне выберите <b>«Судебная стадия»</b>.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{895d9dd7-f1ad-45c8-b03d-430394f478aa}</span></span></span></p>
+<ol start="3">
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">После этого долг отобразится в соответствующем разделе.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{77de3e4b-a169-48b9-94ca-24457a03d72f}</span></span></span></p>

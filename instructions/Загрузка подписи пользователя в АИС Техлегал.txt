@@ -1,0 +1,17 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Подпись пользователя, также как и доверенность, необходима для формирования и отправки заявлений в ФССП.</span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Чтобы загрузить подпись в программу, необходимо сделать ее сканированный образ на белом фоне, обрезать и сохранить.</span></span></span></p>
+<p>{d60adecb-bcd2-41c9-885b-0d497be5409a}</p>
+<p><span style="font-size:11.0pt"><span style='font-family:"Calibri",sans-serif'>Далее, открываем любой удобный для вас редактор изображений.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Например: </span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">paint</span><span style="font-size:11.0pt">.</span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">net</span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"> <a href="https://www.getpaint.net/download.html#download" style="color:#0563c1; text-decoration:underline"><span dir="ltr" lang="EN-US" style="font-size:11.0pt">https</span><span style="font-size:11.0pt">://</span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">www</span><span style="font-size:11.0pt">.</span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">getpaint</span><span style="font-size:11.0pt">.</span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">net</span><span style="font-size:11.0pt">/</span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">download</span><span style="font-size:11.0pt">.</span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">html</span><span style="font-size:11.0pt">#</span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">download</span></a></span></span></p>
+<p>{c6b1c687-10c8-4906-9246-c15120e61b21}</p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Нажимаем «Файл», «Открыть» и выбираем вашу подпись из папки, в которую она была сохранена.</span></span></span></p>
+<p>{a6c5549e-374c-464c-9279-beb7bac9268f}</p>
+<p>{12837b8e-fabe-426d-956b-88bdf76ae68d}</p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Далее, в инструментах выбираем «Волшебная палочка», нажимаем курсором на нашу подпись, устанавливаем «Заполнение» - глобальное и настраиваем «Чувствительность». </span></span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Затем удаляем фон подписи, нажав клавишу </span><span dir="ltr" lang="EN-US" style="font-size:11.0pt">Delete</span> <span style="font-size:11.0pt">и сохраняем.</span></span></span></p>
+<p style="text-align:justify">{79d89297-e323-4841-9cae-09d14e2d2f1c}</p>
+<p style="text-align:justify">{c8ce831a-5d6e-4e99-a3a7-39360ac6795d}</p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Заходим в личный кабинет системы АИС Техлегал, загружаем подпись и сохраняем. Файл подписи должен быть загружен в формате png.</span></span></span></p>
+<p>{5dadf6bb-7a60-4fcb-bb27-a3948ca2b9fc}</p>
+<p style="text-align:justify"> </p>

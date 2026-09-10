@@ -1,0 +1,31 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Techlegal &ndash; это Ваше решение проблем с документооборотом и взаимодействием с ФССП.</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Наша программа позволяет сопровождать неограниченное количество исполнительных производств при минимальном участии человека.</span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Принцип работы системы состоит в непрерывном взаимодействии трёх базовых сервисов:</span></span></p>
+
+<ol>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Сбор информации, а именно, обогащение базы данных о должнике из официальных источников, таких как БД АИС ФССП, БД ФНС, ЕФРСБ.</span></span></li>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Аналитика, в частности, матрица принятия решений, основанная на ФЗ &laquo;Об исполнительном производстве&raquo;, позволяющая последовательно формулировать конкретные задачи судебному приставу исполнителю по дальнейшим действиям в исполнительном производстве.</span></span></li>
+	<li style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Электронный документооборот включает в себя массовое формирование и направление обращений, электронных заявлений, жалоб, любых форм и шаблонов, а также, получение обратной связи от государственных органов посредством Единого портала Госуслуг.</span></span></li>
+</ol>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Использование АИС Техлегал даёт:</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;- сокращение физического контакта с судебным приставом исполнителем;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">- контроль за соблюдением законодательства судебным приставом исполнителем;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">- получение полной обработки каждого исполнительного производства, а следовательно, снижение объёмов необоснованных окончаний;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">- исключение фактора человеческой ошибки;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">- сбережение фонда оплаты труда, канцелярских и прочих расходов;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">- формирование архива всех процессуальных документов о ходе исполнительного производства по каждому долгу и регулярное обогащение Вашей информационной базы.</span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">По общим базовым условиям, система сама определяет, что необходимо сделать. Но пользователь может не согласиться с программным обеспечением и дополнительно отправить заявление. Какую стратегию выбрать для работы с судебным приставом исполнителем решаете только Вы, используя наш инструмент.</span></span></p>

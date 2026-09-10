@@ -1,0 +1,57 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>TechLegal &ndash; автоматизация документооборота и взаимодействия с ФССП</strong></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Наша система позволяет сопровождать неограниченное количество исполнительных производств при минимальном участии специалистов.</span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Принцип работы</strong></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Платформа обеспечивает непрерывное взаимодействие трёх ключевых модулей:</span></span></p>
+
+<ol>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Сбор информации</strong></span></span>
+
+	<ul style="list-style-type:disc">
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Автоматическое пополнение базы данных о должнике из официальных источников</span></span></li>
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Интеграция с АИС ФССП, ФНС, ЕФРСБ</span></span></li>
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Актуальные данные об имуществе, доходах и исполнительных производствах</span></span></li>
+	</ul>
+	</li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Аналитика и принятие решений</strong></span></span>
+	<ul style="list-style-type:disc">
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Интеллектуальная система анализа на основе Федерального закона &quot;Об исполнительном производстве&quot;</span></span></li>
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Автоматическое формирование задач судебным приставам-исполнителям</span></span></li>
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Пошаговые рекомендации по дальнейшим действиям в рамках исполнительного производства</span></span></li>
+	</ul>
+	</li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Электронный документооборот</strong></span></span>
+	<ul style="list-style-type:disc">
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Массовое формирование и отправка обращений, заявлений, жалоб</span></span></li>
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Готовые шаблоны документов всех форм</span></span></li>
+		<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Получение ответов от государственных органов через Единый портал Госуслуг</span></span></li>
+	</ul>
+	</li>
+</ol>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Преимущества:</strong></span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Сокращение личных встреч</strong>&nbsp;с судебными приставами-исполнителями.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Автоматический контроль</strong>&nbsp;за соблюдением сроков и процедур по закону.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Полная обработка</strong>&nbsp;каждого исполнительного производства.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Снижение количества</strong>&nbsp;необоснованных окончаний производств.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Исключение человеческого фактора</strong>&nbsp;и связанных ошибок.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Экономия на расходах</strong>: ФОТ, канцелярия, почтовые услуги.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Централизованный архив</strong>&nbsp;всех процессуальных документов.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Постоянное обновление</strong>&nbsp;вашей базы данных.</span></span></li>
+</ul>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Система автоматически определяет и подсвечивает необходимые действия, но вы всегда можете:</span></span></p>
+
+<ul>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Отправить дополнительные заявления.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выбрать собственную стратегию работы с приставами.</span></span></li>
+	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Адаптировать инструмент под специфику вашего бизнеса.</span></span></li>
+</ul>
+
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">TechLegal &ndash; это профессиональный инструмент, который предоставляет полный контроль над исполнительными производствами, сохраняя за вами право принимать ключевые решения.</span></span></p>
+
+<p>&nbsp;</p>

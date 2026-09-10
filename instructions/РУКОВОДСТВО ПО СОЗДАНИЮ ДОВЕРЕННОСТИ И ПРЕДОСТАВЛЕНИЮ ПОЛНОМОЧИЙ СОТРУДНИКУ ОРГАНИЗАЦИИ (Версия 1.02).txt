@@ -1,0 +1,44 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Полномочия включены в доверенность. Создавать доверенности и выбирать полномочия может руководитель или администратор.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Чтобы администратору был доступен полный список полномочий, руководителю нужно выдать на него доверенность с полномочием «Право формирования доверенности с передачей на подпись руководителю организации».</strong></span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Подписать усиленной квалифицированной электронной подписью (УКЭП) и завершить процесс выдачи доверенности может только руководитель.</strong></span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Доверенность можно выдать сотруднику организации или гражданину с подтверждённой учётной записью.</span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#0b1f33">Как выдать доверенность сотруднику организацииКак выдать доверенность сотруднику организации</span></strong></span></span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="background-color:white"><span style="font-family:Calibri,sans-serif"><strong><span style="color:#0b1f33">1. Войдите в личный кабинет организации</span></strong></span></span></span></p>
+<p style="text-align:justify">{eeb6a06a-ec3a-449c-aef2-c9f0f85b2094}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">2. Откройте раздел «Доверенности»</p>
+<p style="text-align:justify">{ea2717c3-61a2-4203-bff5-ff39c49a15d0}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">3. Нажмите «Создать доверенность»</p>
+<p style="text-align:justify">{c4b85ed8-ec20-4046-ba76-f26615ff9813}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">4. Выберите сотрудника, которому хотите выдать доверенность</p>
+<p style="text-align:justify">{49e69fd2-85dc-4488-bd08-9ba7d1e8db07}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">5. В блоке «Прочее» выберите полномочия, которые необходимо включить в<br/>
+доверенность:<br/>
+­ Подача заявлений<br/>
+­ Подача обращений в рамках ИП (кроме требующих специально оговоренных<br/>
+полномочий по ч. 3 ст. 57 229-ФЗ от 02.10.07), получение информации об ИП<br/>
+­ Получение извещений по исполнительному производству<br/>
+­ Получение информации об исполнительном производстве<br/>
+­ Представл. интересов стороны ИП в полн. объеме, вкл. предъяв. ИД, отзыв ИД,<br/>
+обжал. пост. и действий (бездействия) СПИ в рамках ИП, получ. присужд. имущ.<br/>
+(в т. ч. ДС и ЦБ) в рамках ИП, отказ от взыск. по ИД; закл. мирового согл., согл. о<br/>
+прим. по ИП.</p>
+<p style="text-align:justify">6. Нажмите «Продолжить»</p>
+<p style="text-align:justify">{04a6d8c7-48da-4f71-9bf9-6159e0c23e04}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">7. Передайте доверенность на подпись руководителю — если вы администратор или<br/>
+подпишите доверенность УКЭП — если вы руководитель.<br/>
+Когда руководитель подпишет доверенность, сотрудник получит указанные в ней<br/>
+полномочия.<br/>
+Руководитель может подписать заранее сформированную доверенность в разделе<br/>
+«Доверенности» во вкладке «Ожидают подписания».<br/>
+Продлить срок действующей доверенности нельзя, но можно создать новую на основе<br/>
+действующей через копирование. Старая доверенность при этом не теряет силу и будет<br/>
+действительна до окончания срока действия.<br/>
+Отменить действующую доверенность может только руководитель.</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"> </p>

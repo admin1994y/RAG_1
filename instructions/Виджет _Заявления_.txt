@@ -1,0 +1,14 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>В виджете <strong>«Заявления» </strong>находится все заявления и ходатайства, которые когда-либо были отправлены в ЕПГУ. Кликнув на «линзу» - можно посмотреть, как выглядит заявление.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{8f84e7fd-f72f-471f-b317-5e81cae8776c} </span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Кликнув на заявление, можно посмотреть сам процессуальный документ и результативную часть ответа, не проваливаясь в сам документ.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Внутрь заявления добавлен виджет «Сведения об имуществе», в котором имуществу можно присвоить один из статусов, блокирующих формирование заявления, либо снять его:</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>- есть арест – приостанавливает формирование заявления;</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>- не требует ареста – приостанавливает формирование заявления;</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>- нет ограничения – отменяет приостановку формирования заявления.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{3ffc8eeb-9a70-41f7-93d5-53a21c229431} </span></span></p>
+<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>В виджете<strong> «Документы» </strong>отображаются все документы, которые были получены из ФССП по данному производству.</span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{347f3c84-9796-43c9-a35c-c1e326a0bb47} </span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Если есть необходимость, то можно добавить любой полученный документ вручную.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{173740c7-422b-4ee4-b730-4041535ca1b3} </span></span></p>

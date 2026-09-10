@@ -1,0 +1,23 @@
+<p>&nbsp;</p>
+
+<p><span style="font-size:18px"><strong><span style="font-family:Times New Roman,Times,serif">Подготовка к работе включает:</span></strong></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">1. Регистрация&nbsp;ID Telegram;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">2. Первый&nbsp;вход в систему;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">3. Регистрация взыскателя;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">4. Добавление&nbsp;пользователя к взыскателю;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">5. Доверенности и доступы;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">6. Регистрация электронной доверенности;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">7. Установка плагина;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">8. Подключение к API ЕПГУ;</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">9. Загрузка реестра;</span></span></p>
+
+<p>&nbsp;</p>

@@ -1,0 +1,31 @@
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Работа с ответами на отправленные обращения</b></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Обращения направляются для того, чтобы запросить у судебного пристава совершение определённых действий по исполнительному производству или обжаловать бездействие, если ваши требования как взыскателя не выполняются. Чтобы понять, достигнута ли цель, необходимо знакомиться с ответами, поступающими от приставов и иных органов и по итогам ознакомления с ответом - дать соответствующую реакцию.</span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Просмотреть ответы и дать по ним реакцию можно в двух разделах программы.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>1. Раздел «Обращения/Заявления/Отправленные заявления»</b></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В столбце <b>«Статус заявления»</b> выберите строку <b>«Услуга оказана»</b>. Система отобразит только те отправленные обращения, по которым уже получен ответ.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>2. Раздел «Предфильтры/Жалобы»</b></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В строках <b>«Количество заявлений без принятого решения об обжаловании»</b> и <b>«Количество жалоб без принятого решения об обжаловании»</b> система уже отобрала все обращения с ответами, на которые ещё не дана реакция. При этом ответы дополнительно разбиты по срокам давности. </span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{00a6e90b-f31a-46b1-953d-de2ab5a8f922}</span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Порядок действий при получении ответа</b></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Ознакомьтесь с ответом на обращение в столбцах «Мотивировочная часть ответа» и «Резолютивная часть ответа». Определите, устраивает вас данный ответ или нет.</span></span></span></p>
+<p style="margin-bottom:11px; margin-left:48px"> </p>
+<p style="margin-left:24px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{b3b1ef26-5b1b-47f8-8b13-801e2956abce}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Выберите дальнейшее действие:</span></span></span></p>
+<ul>
+<li style="margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Если ответ вас устраивает:</b> выделите строку с ответом и нажмите <b>«Действия» → «В архив»</b>.</span></span></span></li>
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Если ответ вас не устраивает: </b>нажмите <b>«Действия» → «В необоснованный ответ»</b>.</span></span></span></li>
+</ul>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{b8a714b2-effe-44e1-95d8-725d1be639a4}</span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Важно!</b> Если отказ обоснован тем, что мера принудительного взыскания (МПВ) уже была применена ранее, необходимо проверить, соответствует ли это действительности. </span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Для этого нажмите на название заявления в столбце <b>«Тип заявления»</b> </span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{02e78ff5-90b1-4bfb-b866-7168c04c8506}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Далее в виджете <b>«Сведения об имуществе»</b> (2) найдите объект, по которому направлялось обращение. </span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В столбцах <b>«Мера»</b> и <b>«Дата меры»</b> (3) должны быть проставлены соответствующие отметки. Если эти столбцы не заполнены, значит, МПВ отсутствует.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{b88f167c-f3f5-4d8c-917d-aea71debb2c0}</span></span></span></p>

@@ -1,0 +1,28 @@
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Для выявления ошибок в данных должника необходимо сверить персональные данные должника в АИС «Техлегал» с данными в отчете о наличии ИП.</span></span></span></p>
+<ol>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Перейдите в раздел <b>«Отчеты»</b>. Скачайте <b>отчет о наличии ИП</b> и откройте его.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{bcdf67ce-4f46-4192-8e63-cba6a79053b6}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{0cd55b77-f202-485a-9bff-6ef2c3d71792}</span></span></span></p>
+<ol start="2">
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Осуществите поиск должника в отчете.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{b412080b-e770-4e6b-92af-5c04416bcc55}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Важно!</b> Рекомендуется выполнять поиск по одному из параметров – например <b>только по фамилии или имени</b> должника. Поиск по полным ФИО не рекомендован: если в одном из параметров содержится ошибка, поиск в отчете не даст результатов.</span></span></span></p>
+<ol start="3">
+<li style="margin-bottom:11px; margin-left:8px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Если должник найден, сравните его данные в отчете и в АИС «Техлегал». В случае выявления<b> расхождения</b> — необходимо исправить ошибку.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{f89a7a14-121c-4560-bf49-33636daced79}</span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Ошибка в АИС «Техлегал»:</b></span></span></span></p>
+<ul>
+<li style="margin-left:56px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Внесите корректные данные должника в карточку договора.</span></span></span></li>
+<li style="margin-left:56px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нажмите кнопку <b>«Сохранить»</b>.</span></span></span></li>
+<li style="margin-left:56px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Нажмите <b>«Действия»</b> → <b>«Запрос в ФССП»</b>.</span></span></span></li>
+</ul>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{018ef95a-7637-4029-bc5c-1a3457599f30}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{2cdd0608-785d-4a71-80c5-4c6e15afd57d}</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">В течение 24 часов система выполнит поиск по обновленным данным.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Ошибка в отчете о наличии ИП (на сайте ФССП)</b></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Если корректные данные указаны в системе, но в отчете они отображаются неверно, необходимо <b>связаться с судебным приставом</b> и запросить внесение исправлений в данные должника.</span></span></span></p>
+<p style="margin-bottom:11px"> </p>

@@ -1,0 +1,5 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для загрузки доверенности в программу, пользователю необходимо войти в личный кабинет, нажав на ФИО в левом нижнем углу экрана и справа от параметров пользователя провалиться во взыскателя, в разделе "Доверенность" загрузить, после чего нажать "Сохранить".</span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"> </span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Обращаем ваше внимание на то что оптимальный размер доверенности - до 3 МБ, формат доверенности - pdf.</span></span></p>
+<p style="text-align:justify">{36633dfa-8abc-450e-a108-329c520194fb}</p>
+<p style="text-align:justify">{f1686872-cc7a-499e-bcb6-acedb8e37660}</p>
+<p style="text-align:justify">{c0b128a9-fb2f-45a8-b918-cd7e6b13ab3e}</p>

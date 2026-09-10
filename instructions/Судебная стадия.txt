@@ -1,0 +1,34 @@
+<h1><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Судебная стадия.</strong></span></span></h1>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После отправки заявления о вынесении судебного приказа и получения информации о его регистрации (номера и даты регистрации) обязательство переходит в раздел <strong>«Судебная стадия»</strong>.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Обязательства находятся на этой стадии с момента регистрации заявления в суде до момента регистрации заявления о возбуждении исполнительного производства, сформированного на основании полученного судебного акта</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Ежедневный автоматический мониторинг.</strong> Система ежедневно проверяет статусы дел:</span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Через интеграцию с <strong>ГАС "Правосудие"</strong> (для электронных заявлений).</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Путем парсинга <strong>сайтов судов</strong> (для почтовых отправлений).</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">На этом этапе в столбце «Статус дела» (1) отображается то, на каком этапе находится отправленное заявление:</span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Возвращено;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Вынесен судебный приказ;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Доставлено в суд;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Зарегистрировано;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Зарегистрировано в суде;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Заявление возвращено;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Отказано в принятии;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Отклонено;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Передано на рассмотрение в суд;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Подано;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Прикреплено к делу;</span></span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:11.0pt">Проверка ЭП пройдена.</span></span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Фиксация результата.</strong> Как только суд выносит судебный приказ, система автоматически фиксирует в карточке обязательства:</span></span></p>
+<ul>
+<li style="list-style-type:none">
+<ul style="list-style-type:disc">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Данные судьи (2).</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Результат рассмотрения (3).</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Дата вынесения (4).</span></span></li>
+</ul>
+</li>
+</ul>
+<p>{2df74fcf-4724-4ef8-ac48-c0876337a3e5}</p>

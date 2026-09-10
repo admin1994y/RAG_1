@@ -1,0 +1,5 @@
+<p>Представляем вашему вниманию видеоурок по созданию пользовательского шаблона для использования в досудебной стадии:</p>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+<video controls="controls" src="/files/getSFile?file=uploads/userManualVideo/1783998811_2816aa074914e6b2d36e.mp4" videoselect="/files/getSFile?file=uploads/userManualVideo/1783998811_2816aa074914e6b2d36e.mp4" width="1300">Ваш браузер не поддерживает видео.</video>
+</p>

@@ -1,0 +1,74 @@
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Для подтверждения доступа к API ЕПГУ сотрудникам, осуществляющим отправку обращений, система предлагает два варианта:</span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Использование TL Подписи.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Подтверждение с использованием ЭЦП физического лица.</span></span></li>
+</ul>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Подтверждение доступа с помощью </span></strong><strong><span dir="ltr" lang="EN-US" style="font-size:13.0pt">TL</span></strong><strong> </strong><strong><span style="font-size:13.0pt">Подписи: </span></strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Перейдите во вкладку <strong>«Плагин»</strong> в АИС «Техлегал». Скачайте установочный файл приложения <strong>TL_Подпись</strong>.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{002077d4-6b6a-4df4-9499-e948dac08ecf}</span></span></p>
+<p> </p>
+<ol start="2">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Установите TL_Подпись на компьютер, где установлена <strong>ЭЦП (УКЭП) руководителя</strong> или <strong>обезличенная УКЭП организации</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">При первом запуске в верхней строке интерфейса укажите полный <strong>путь к папке с установленным программным обеспечением «КриптоПро»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В интерфейсе TL_Подпись нажмите кнопку <strong>«Добавить пользователя»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Заполните обязательные поля:</span></span>
+<ul style="list-style-type:disc">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>ИНН организации</strong> (взыскателя)</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Домен</strong> вашего личного кабинета АИС «Техлегал»</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Отпечаток сертификата УКЭП</strong></span></span></li>
+</ul>
+</li>
+</ol>
+<ol start="6">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После заполнения всех полей нажмите кнопку <strong>«Подписать»</strong>.</span></span></li>
+</ol>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Что происходит в системе:</strong></span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Сформированный <strong>API Key</strong> автоматически передается на сервер ЕПГУ.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Сервер возвращает <strong>маркер доступа (access token)</strong>, который сохраняется в АИС «Техлегал».</span></span></li>
+</ul>
+<p style="margin-left:24px"> </p>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{ccf15e24-bcab-4735-bd1e-fb720a1bbc4a}</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Как получить отпечаток сертификата:</strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Откройте: <strong>Пуск → КриптоПро → Сертификаты пользователя</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Перейдите в папку <strong>Личное</strong> → <strong>Сертификаты пользователя</strong>.</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{864e244c-4da3-4c02-bb0f-0998c60840bf}</span></span></p>
+<ol start="3">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Найдите и <strong>дважды кликните</strong> на сертификат вашей организации.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В открывшемся окне перейдите на вкладку <strong>«Состав»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Пролистайте вниз до строки <strong>«Отпечаток»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Скопируйте</strong> комбинацию символов из поля ниже.</span></span></li>
+</ol>
+<p style="margin-left:24px"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{1741d96a-98c4-40e2-aba9-0cc95d9cbaf9}</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:13.0pt">Предоставление доступа к API ЕПГУ в web-интерфейсе АИС Техлегал:</span></strong></span></span></p>
+<ol>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">На рабочем компьютере, где настроена ЭЦП, скачайте и установите плагин <strong>КриптоПро ЭЦП Browser plug-in</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В настройках установленного плагина (Пуск → КриптоПро → Настройки ЭЦП Browser plug-in) добавьте адрес системы <strong>АИС «Техлегал»</strong> в список доверенных сайтов.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Активируйте функцию подписи в АИС Техлегал:</strong></span></span>
+<ul style="list-style-type:disc">
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Перейдите в раздел «<strong>Реестры/Взыскатели»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выберите нужного взыскателя.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Откройте вкладку <strong>«Пользователи»</strong>.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">Выберите нужного пользователя.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">В строке <strong>«Подпись UUID»</strong> установите значение <strong>«Да»</strong>.</span></span></li>
+</ul>
+</li>
+</ol>
+<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{825e3a3d-204d-4826-91eb-1a8dc6bf23fa}</span></span></p>
+<p style="margin-left:24px"> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После настройки сотрудник, владеющий ЭЦП, должен один раз в сутки при запуске <strong>АИС «Техлегал»</strong> подтверждать доступы, подписывая появляющееся системное уведомление.</span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">{3226f8e4-3eb4-4df6-bc48-ff6b84e51aaa}</span></span></p>
+<p> </p>
+<p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif">После успешной настройки API ЕПГУ:</span></span></p>
+<ul>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Система начинает автоматическую о</strong>тправку обращений, которые пользователи сформировали и отправили из раздела «Подготовленные обращения» и регистрацию документов в ФССП.</span></span></li>
+<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong>Автоматически </strong>проверяет статусы отправленных обращений <strong>1 раз в 3 дня</strong> - все полученные статусы и обновления фиксируются в базе данных АИС «Техлегал». <strong>Участие пользователя в отслеживании не требуется.</strong></span></span></li>
+</ul>
+<p> </p>
+<p> </p>

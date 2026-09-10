@@ -1,0 +1,26 @@
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Чтобы отследить договоры, по которым исполнительный документ (ИД) предъявлен, но исполнительное производство (ИП) не возбуждено, используйте следующий алгоритм.</span></span></span></p>
+<ol>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Перейдите в раздел <b>«Предфильтры/Основания»</b>.</span></span></span></span></li>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Найдите строку: <b>«Предъявленные ИД без возбужденного ИП, подпадающие под критерии формирования жалобы»</b>. Нажмите на числовое значение в этой строке в столбцах «15-30 дней» и «более 30 дней» — система отобразит список кредитных договоров (КД) с зафиксированным нарушением.</span></span></span></span></li>
+</ol>
+<ol start="3">
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Выделите весь список договоров, нажмите кнопку <b>«Действия»</b> → <b>«Выбор заявления»</b>.</span></span></span></span></li>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Выберите строку «Жалоба в порядке подчиненности, на бездействие начальника отдела службы судебных приставов» и нажмите кнопку <b>«Действия»</b> → <b>«Подготовить заявления»</b>.</span></span></span></span></li>
+</ol>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Система сформирует заявления и разместит их в разделе: <b>«Обращения/Жалобы/Подготовленные жалобы»</b>. Пользователю необходимо перейти в этот раздел, выбрать подготовленные заявления и осуществить их отправку.</span></span></span></p>
+<p style="margin-bottom:11px"> </p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Внесение информации для отслеживания факта получения исполнительного документа ФССП.</b></span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">Чтобы система могла отслеживать факт получения исполнительного документа службой судебных приставов, необходимо внести <b>ШПИ (штриховой почтовый идентификатор)</b>.</span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Способы внесения ШПИ:</b></span></span></span></p>
+<ul>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>Через реестр:</b> добавьте ШПИ в соответствующий столбец реестра («ИД ШПИ») и загрузите реестр на обновление данных.</span></span></span></span></li>
+<li style="margin-bottom:11px"><span style="font-size:12pt"><span style="tab-stops:list 36.0pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><b>В карточку ИД вручную:</b></span></span></span></span>
+<ul>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">Нажмите на номер исполнительного документа.</span></span></span></li>
+<li style="margin-left:16px; margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">Внесите в соответствующую строку <b>ШПИ</b> или <b>дату нарочного предъявления</b>.</span></span></span></li>
+</ul>
+</li>
+</ul>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">{3a758223-8a27-4bf6-ba0d-8217fdc5ed4d} </span></span></span></p>
+<p style="margin-bottom:11px"><span style="font-size:12pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif">При наличии этой информации система будет отслеживать местонахождение ИД. В случае выявления нарушения срока возбуждения ИП, система зафиксирует такой кейс в разделе <b>«Предъявленные ИД без возбужденного ИП, подпадающие под критерии формирования жалобы»</b> и позволит своевременно сформировать жалобу.</span></span></span></p>
+<p style="margin-bottom:11px"> </p>

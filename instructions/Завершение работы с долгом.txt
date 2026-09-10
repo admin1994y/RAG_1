@@ -1,0 +1,6 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><span style="background-color:white"><span style="color:black">Для того, чтобы <strong>завершить обработку долгов</strong> в системе необходимо выделить нужные долги и нажать на «Действия», далее «Завершить работу с долгами». </span></span></span></span></p>
+<p style="text-align:justify">{fc903476-dec2-4da0-9675-2386c6068994}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><span style="background-color:white"><span style="color:black">Аналогично, прекратить работу с погашенными долгами можно кликнув «Долги погашены».</span></span></span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><span style="background-color:white"><span style="color:black">Выделять долги можно как по одному, так и массово по установленным фильтрам.</span></span></span></span></p>
+<p style="text-align:justify"> </p>

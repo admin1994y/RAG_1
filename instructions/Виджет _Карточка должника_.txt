@@ -1,0 +1,23 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Если во вкладке «Кредитные договоры» кликнуть на номер договора, то можно увидеть карточку должника.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{f2d945e9-c485-4a9e-897a-2e8d1344a89a} </span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><strong>Карточка должника</strong> содержит в себе следующие виджеты: </span></span></p>
+<ul>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Сведения о должнике </span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Комментарии</span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Исполнительные документы</span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Список ИП</span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Сведения об имуществе</span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Заявления</span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Документы</span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Банкротство</span></span></li>
+<li style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Кредитные договоры должника</span></span></li>
+</ul>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>В окне «Сведения о должнике» находятся персональные данные должника.</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>При необходимости, их можно корректировать. </span></span></p>
+<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Например, если у должника изменилась ФИО или был указан не верный год рождения, следует исправить и нажать «Сохранить», далее, «Действия» - «Запрос в ФССП», что позволит обновить информацию с сайта ФССП (скорость зависит от загруженности системы).</span></span></p>
+<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>{0164ce6a-180e-48b2-bb27-a10a01340741}</span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Если работа с долгом ранее была завершена, то при выборе «Возобновить работу с долгом» - статус долга изменится на «Активен».</span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>В окне «Комментарии» отображается все действия, которые происходили с должником. Они заполняются автоматически. Также, и сам сотрудник может оставить свой комментарий, набрав его в строке и нажав кнопку с «самолётиком».</span></span></p>
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{c6da02ff-6bff-41f3-a92c-b49ce7ac3a97}</span></span></p>

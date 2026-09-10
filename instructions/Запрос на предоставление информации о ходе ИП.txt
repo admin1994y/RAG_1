@@ -1,0 +1,6 @@
+<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Для создания "Запрос на предоставление информации о ходе ИП", следует во вкладке «Кредитные договоры», а именно, в столбце «Номер ИП» выбрать «Содержит», «Не пусто», выделить нужные объекты, затем «Действия», «Выбор заявления», «Запрос на предоставление информации о ходе ИП», далее, «Действия», «Подготовить заявления».</span></span></p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">{f17f710d-589d-48db-9639-6b72e2692f33}</p>
+<p style="text-align:justify"> </p>
+<p style="text-align:justify">{c79d2148-d3a9-4ade-96aa-c8aa39913731}</p>
+<p style="text-align:justify"> </p>
