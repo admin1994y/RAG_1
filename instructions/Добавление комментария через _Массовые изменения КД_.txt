@@ -1,8 +1,0 @@
-<p>Для добавления комментария, с<span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><span style="font-size:10.0pt"><span style='font-family:"Calibri Light",sans-serif'><span style="color:black">ледует выбрать нужный кредитный договор, нажать Действия», <strong><em><span style='font-family:"Calibri Light",sans-serif'>«Массовые </span></em></strong></span></span></span><strong><em><span style="font-size:10.0pt"><span style='font-family:"Calibri Light",sans-serif'><span style="color:black">изменения КД».</span></span></span></em></strong></span></span></p>
-<p>{92a86ff2-5e4e-4adf-80c4-c2750aaa1874}</p>
-<p><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><span style="font-size:10.0pt"><span style='font-family:"Calibri Light",sans-serif'><span style="color:black">Внести необходимый комментарий и нажать «Сохранить»</span></span></span></span></span></p>
-<p>{dd6cd8a6-63d0-40ab-8412-78f26370d947}</p>
-<p>{360fcc85-8444-4f51-a5ce-476432495571}</p>
-<p> </p>
-<p> </p>
-<p style="margin-left:48px"> </p>

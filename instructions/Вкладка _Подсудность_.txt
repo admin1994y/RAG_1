@@ -1,5 +1,0 @@
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Для использования сервиса необходимо в Передаваемые данные загрузить реестр</span></span></p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>установленного образца (при необходимости предоставляется <span style="background-color:white"><span style="color:black">специалистами технической поддержки</span></span>).</span></span></p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{27fec0f7-7a95-41e1-b56c-72253ae75697} </span></span></p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Результат будет отражен во вкладке Подсудность. Там же возможно скачать файл с результатами в формате xslx.</span></span></p>

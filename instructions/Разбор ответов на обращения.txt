@@ -1,6 +1,0 @@
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Во вкладке «Заявления» - «Отправленные заявления» необходимо в столбце «Статус заявления», установить «Услуга оказана» и разобрать ответы, полученные от судебных приставов, на направленные Вами ранее заявления. Вы можете либо согласиться с ответом, отправив его в «Архив», либо отправить его в «Необоснованный ответ», если не удовлетворены ответом судебного пристава исполнителя, после чего, направить повторное заявление.</span></span></p>
-<p style="text-align:justify">{682f8953-f05f-4fae-ae9b-57dfc9aaab36}</p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify">{52d44dec-31b9-477e-bb5c-af2707eaa5a9}</p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"> </p>

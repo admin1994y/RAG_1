@@ -1,7 +1,0 @@
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'><strong>Вкладка "Госпочта" </strong>состоит из реестра исполнительных производств, по которым получены процессуальные документы от ФССП, посредством Госпочты ЕПГУ.</span></span></p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>То есть, здесь собраны документы, которые пристав вынес в рамках исполнительного производства и направил Вам копию в ЛК ЕПГУ. Постановления фиксируются только по исполнительным производствам, загруженным в систему. </span></span></p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Печатные формы постановлений можно увидеть непосредственно во вкладке «Госпочта», либо в виджете «Документы» в конкретном кредитном договоре.</span></span></p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Документы, хранящиеся во вкладке Госпочта можно переносить в архив.<br/>
-Для этого необходимо выбрать нужные строки и нажать "Действия" – "В архив".</span></span></p>
-<p style="text-align:justify">{3bb378a2-55ad-4b21-b8d6-9d68de663d13}</p>

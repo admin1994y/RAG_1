@@ -1,5 +1,0 @@
-<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Заявления в архиве</strong> &ndash; это заявления, с которыми завершена работа (отправлены в архив, либо обжалуются).</span></span></p>
-
-<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">То есть, в этой вкладке находятся все заявления и ходатайства, которые когда-либо были отправлены в ЕПГУ. </span></span></p>
-
-<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Кликнув на &laquo;линзу&raquo; - можно посмотреть, как выглядит заявление. </span></span></p>

@@ -1,6 +1,0 @@
-<p><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Для создания заявлений, необходимо во вкладке «Кредитные договоры» выделить нужные объекты, далее «Действия», «Выбор заявления», выбираем нужное, после чего нажать «Действия», «Подготовить заявления».</span></span></p>
-<p>{bd7e4738-d95c-4daa-a8fd-c02e29e8529d}</p>
-<p> </p>
-<p>{09e87eef-2ec4-4774-a0c3-f2b26a95713a}</p>
-<p> </p>
-<h2 style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Для создания некоторых типов заявления, необходимо установить определенные условия.</span></span></h2>

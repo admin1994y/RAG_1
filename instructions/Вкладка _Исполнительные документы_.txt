@@ -1,7 +1,0 @@
-<p>Вкладка "Исполнительные документы" <span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>включает в себя реестр исполнительных документов, загруженных в систему и их статус.</span></span></p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{f3583424-ddba-4b4f-8d23-452fa488c0ba} </span></span></p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Если при отправке исполнительного документа в ФССП указать ШПИ отправки, то сервис предоставит информацию о получении исполнительного документа адресатом.</span></span></p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Так же, во вкладке «Исполнительные документы» указаны даты возможного предъявления ИД (дата предъявления) и дата истечения срока для предъявления ИД к исполнению. Данная информация появляется после присвоения ИД статуса «ИД в архиве взыскателя» и заполнения соответствующих данных при изменении статуса.</span></span></p>
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>{4f762919-d2c6-4fd8-ba69-e153761f3bbf} </span></span></p>
-<p style="text-align:justify"> </p>

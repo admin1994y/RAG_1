@@ -1,5 +1,0 @@
-<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">В ветке меню "ОБРАЩЕНИЯ", открываете "ЖАЛОБЫ", далее "ОТПРАВЛЕННЫЕ ЖАЛОБЫ", выбираете жалобу, которую нужно отозвать, затем "ДЕЙСТВИЯ", "ОТОЗВАТЬ ЖАЛОБУ". </span></span></p>
-<p style="text-align:justify">{8b6eaeec-681f-44ba-877d-dc9c4f0e19f6}</p>
-<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">После чего заходите во вкладку "ОБРАЩЕНИЯ", "ЗАЯВЛЕНИЯ", "ПОДГОТОВЛЕННЫЕ ЗАЯВЛЕНИЯ", выделяете отзыв жалобы, "ДЕЙСТВИЯ", «ОТПРАВИТЬ ЗАЯВЛЕНИЯ». </span></span></p>
-<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Calibri",sans-serif'>{948b8781-e7f4-4ad1-ab2e-7aac555b5d86}</span></span></p>
-<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Затем необходимо запустить плагин.</span></span></p>

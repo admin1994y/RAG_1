@@ -1,7 +1,0 @@
-<p><strong>Вкладка &quot;Реестры&quot;</strong>&nbsp;<span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">содержит шаблоны обращений.</span></span></p>
-
-<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">В АИС &laquo;Техлегал&raquo; доступен функционал создания собственного шаблона обращений. Для использования собственного шаблона, необходимо создать его по инструкции, которую вы можете запросить у сотрудников техподдержки.</span></span></p>
-
-<p style="text-align:justify">&nbsp;</p>
-
-<p>&nbsp;</p>

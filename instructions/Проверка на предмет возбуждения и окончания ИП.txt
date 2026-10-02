@@ -1,4 +1,0 @@
-<p><strong><span style="font-size:11.0pt"><span style='font-family:"Calibri",sans-serif'>Проверка на предмет возбуждения и окончания ИП</span></span></strong> <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">на сайте ФССП происходит 2 раза в месяц в автоматическом режиме. </span></span></p>
-<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">В карточке должника есть дата текущей и предстоящей проверки. </span></span></p>
-<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Также, из карточки должника можно сделать запрос вручную.</span></span></p>
-<p>{0d627b73-7081-486e-b4c5-ffc20c66fa21}</p>

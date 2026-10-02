@@ -1,4 +1,0 @@
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Для создания заявления об обращении взыскания на объекты недвижимости должника, необходимо во вкладке «Имущество», в столбце «Тип объекта» выбрать нужный тип имущества, далее, выделяем объекты, затем «Действия», «Выбор заявления», выбираете нужное и нажимаете на виджет «Действия», «Подготовить заявления».</span></span></p>
-<p style="text-align:justify">{a2c32894-5e07-4e06-b01a-48e2e4c88d6a}</p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify">{4a7f2de9-f5ce-4694-9e8a-1382f83151f1}</p>

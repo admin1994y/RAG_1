@@ -1,5 +1,0 @@
-<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Для того, чтобы добавить номер ИД, следует в виджете «Исполнительные документы» нажать «Действия», далее «Добавить» и заполняете все поля.</span></span></span></span></p>
-<p style="text-align:justify">{851ac995-2dbe-456f-86a8-82b0c89225ee}</p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Для того, чтобы изменить номер ИД, следует нажать на реквизиты существующего исполнительного документа и затем вносить необходимые корректировки.</span></span></span></span></p>
-<p style="text-align:justify"> </p>

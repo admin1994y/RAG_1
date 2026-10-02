@@ -1,7 +1,0 @@
-<p>
-<video controls="controls" src="https://main.techlegal.ru/files/getSFile?file=uploads/userManualVideo/1776431831_1cdf528f7c8ebea8c258.mkv" videoselect="https://main.techlegal.ru/files/getSFile?file=uploads/userManualVideo/1776431831_1cdf528f7c8ebea8c258.mkv">Ваш браузер не поддерживает видео.</video>
-</p>
-
-<p>
-<video controls="controls" src="/files/getSFile?file=uploads/userManualVideo/1781686323_a1a67aed38b3d69f8808.mp4" videoselect="/files/getSFile?file=uploads/userManualVideo/1781686323_a1a67aed38b3d69f8808.mp4" width="1500">Ваш браузер не поддерживает видео.</video>
-</p>

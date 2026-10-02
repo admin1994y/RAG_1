@@ -1,3 +1,0 @@
-<p><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>В виджете<strong> «Кредитные договоры должника» </strong>отображаются все кредитные договоры (лицевые счета) в отношении должника.</span></span></p>
-<p style="text-align:justify">{3c1be150-d16c-4eec-962e-306a09cfc054}</p>
-<p> </p>

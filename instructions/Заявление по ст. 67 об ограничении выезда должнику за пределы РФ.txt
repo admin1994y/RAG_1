@@ -1,5 +1,0 @@
-<p><span style="font-size:11.0pt"><span style="font-family:Calibri,sans-serif"><span style='font-family:"Times New Roman",serif'><span style="color:black"><strong>Заявление по ст. 67 об ограничении выезда должнику за пределы РФ</strong> ф</span></span></span><span style='font-family:"Times New Roman",serif'>ормируется автоматически при наличии электронной доверенности. В случае её отсутствия вручную.</span></span></p>
-<p><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>Для создания «<span style="color:black">Заявление по ст. 67 об ограничении выезда должнику за пределы РФ</span>», необходимо во вкладке «Кредитные договоры» выделить нужные объекты, далее «Действия», «Выбрать заявления»</span></span></p>
-<p>{4b2c53c9-c5cf-4f7e-a153-4acfab3d7b8f}</p>
-<p><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>после чего, нажать «Действия», «Подготовить заявления».</span></span></p>
-<p>{50cdd3e8-17ff-403a-a03c-3a07f81b1806}</p>

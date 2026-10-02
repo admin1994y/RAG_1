@@ -1,9 +1,0 @@
-<p style="text-align:justify"><span style="font-size:12pt"><span style='font-family:"Times New Roman",serif'>Для более удобной работы в программе предусмотрена сортировка данных, которая является неотъемлемой частью обработки загруженного портфеля.</span></span></p>
-<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Вы можете выполнить сортировку как по одному столбцу, так и по нескольким одновременно. Обратите внимание, что столбцы имеют шапки с названиями, которые можно кликать. Если установить курсор в шапку столбца, который нужно отсортировать, то Вы увидите «Содержит» и далее откроется вложенная часть меню, которая называется подменю. Это очень удобно, когда есть возможность отсортировать информацию по одному из необходимых параметров</span></span></p>
-<p style="text-align:justify">{fcd20436-de47-43b4-9efb-5b6ef55f146d}</p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Так же, нажав на значок в правом верхнем углу можно вызвать большое меню сортировки.</span></span></p>
-<p style="text-align:justify"><span style="font-size:12.0pt"><span style='font-family:"Times New Roman",serif'>Все установленные сортировки можно сбросить.</span></span></p>
-<p style="text-align:justify">{79395360-67d6-477e-a348-fb8a5574ae80}</p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"> </p>

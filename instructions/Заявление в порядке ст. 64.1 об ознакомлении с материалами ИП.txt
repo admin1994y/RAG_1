@@ -1,9 +1,0 @@
-<p><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>Заявление в порядке ст.64.1 об ознакомлении с материалами ИП </span></span></p>
-<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style='font-family:"Times New Roman",serif'>Формируется в ручном режиме.</span></strong></span></span></p>
-<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>В случае отсутствия электронной доверенности,  необходимо сформировать «Заявление в порядке ст. 64.1 об ознакомлении с материалами ИП» </span></span></p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>Для создания «Заявление в порядке ст.64.1 об ознакомлении с материалами ИП», необходимо во вкладке «Кредитные договоры» выделить нужные объекты, далее «Действия», «Выбрать заявления» после чего, нажать «Действия», «Подготовить заявления».</span></span></p>
-<p style="text-align:justify">{6d571503-0c39-4a5a-94ad-2bf4d6cbc7f3}</p>
-<p style="text-align:justify"> </p>
-<p style="text-align:justify"><span style="font-size:11.0pt"><span style='font-family:"Times New Roman",serif'>после чего, нажать «Действия», «Подготовить заявления».</span></span></p>
-<p style="text-align:justify">{e5e1157f-908c-44ed-9771-75f16b655c85}</p>
